@@ -1,0 +1,106 @@
+{
+ "hero-absorbers": {
+  "w": 2000,
+  "h": 971
+ },
+ "cta-absorbers": {
+  "w": 2000,
+  "h": 714
+ },
+ "sac10-plan": {
+  "w": 850,
+  "h": 754
+ },
+ "sac5-side": {
+  "w": 939,
+  "h": 558
+ },
+ "sac3-exterior": {
+  "w": 820,
+  "h": 568
+ },
+ "far3-interior": {
+  "w": 1100,
+  "h": 638
+ },
+ "auto-chamber": {
+  "w": 877,
+  "h": 443
+ },
+ "mil-interior": {
+  "w": 891,
+  "h": 487
+ },
+ "antenna-cube": {
+  "w": 851,
+  "h": 744
+ },
+ "antenna-room": {
+  "w": 1200,
+  "h": 746
+ },
+ "antenna-room-2": {
+  "w": 1200,
+  "h": 736
+ },
+ "shielded-door": {
+  "w": 900,
+  "h": 764
+ },
+ "shielded-room-a": {
+  "w": 900,
+  "h": 738
+ },
+ "shielded-room-b": {
+  "w": 588,
+  "h": 785
+ },
+ "eeg-room": {
+  "w": 789,
+  "h": 576
+ },
+ "tem-room": {
+  "w": 771,
+  "h": 522
+ },
+ "trunking": {
+  "w": 472,
+  "h": 411
+ },
+ "datacentre-black": {
+  "w": 922,
+  "h": 470
+ },
+ "cabinet-render": {
+  "w": 900,
+  "h": 572
+ },
+ "datacentre-row": {
+  "w": 1100,
+  "h": 650
+ },
+ "container-inside": {
+  "w": 939,
+  "h": 612
+ },
+ "tent": {
+  "w": 471,
+  "h": 492
+ },
+ "forensic-room": {
+  "w": 847,
+  "h": 563
+ },
+ "forensic-corridor": {
+  "w": 847,
+  "h": 564
+ },
+ "partner-kemar": {
+  "w": 800,
+  "h": 461
+ },
+ "emc-control-cabinets": {
+  "w": 1153,
+  "h": 761
+ }
+}
